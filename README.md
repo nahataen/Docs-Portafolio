@@ -23,7 +23,7 @@ portfolio-avance-01/
 ## Cómo verlo
 
 - Abrir los PDF con doble clic o desde GitHub:
-  - `https://github.com/nahataen/portfolio-avance-01`
+  - `https://github.com/nahataen/Docs-Portafolio`
 - No requiere `live-server`: no hay página web. GitHub Pages no aplica (no hay `index.html`).
 
 ## Notas
